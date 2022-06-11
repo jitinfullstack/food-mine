@@ -1,3 +1,19 @@
+## Food Mine Angular Application
+
+## Demo
+
+### Home Page
+
+![Foodmine](https://user-images.githubusercontent.com/93995641/173184455-84b8a4bf-c53b-45dc-bf1b-1c50a2136f11.png)
+
+### Single Food Page
+
+![Foodmine Single Food](https://user-images.githubusercontent.com/93995641/173184459-7736ead5-57c9-424b-917e-38a92cbeb130.png)
+
+### Cart Page
+
+![Foodmine Cart](https://user-images.githubusercontent.com/93995641/173184460-aa68e4ce-e015-47ea-80c8-919fc0d25d62.png)
+
 # Foodmine
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
